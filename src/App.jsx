@@ -13,7 +13,8 @@ function App() {
   return (
     <div>
     {/* <ButtonBar />  */}
-    <MUIImageList />
+    {/* <MUIImageList /> */}
+    <MUIAccordion />
 
     </div>
   )
